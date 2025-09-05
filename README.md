@@ -8,7 +8,9 @@ O cliente permite que o usuário selecione um arquivo de vídeo, escolha um filt
 
 | Aplicação Cliente (Tkinter) | Página Web do Servidor (Histórico) |
 | :-------------------------: | :--------------------------------: |
-| ![Imagem do App Cliente](https://placehold.co/400x600/EEE/31343C?text=Print+App+Cliente) | ![Servidor exibindo histórico](https://placehold.co/600x400/EEE/31343C?text=Print+Servidor+Web) |
+| ![Imagem do App Cliente](<img width="993" height="783" alt="Captura de tela 2025-09-04 170229" src="https://github.com/user-attachments/assets/b14200b1-48b2-4c02-bb00-ff25d9ef94a9" />
+) | ![Servidor exibindo histórico](<img width="734" height="586" alt="Captura de tela 2025-09-04 170306" src="https://github.com/user-attachments/assets/621dbc32-618f-4c69-8372-55ef946f307f" />
+) |
 
 ## Arquitetura
 
@@ -111,4 +113,5 @@ Exemplo de alteração
 SERVER_URL = "http://192.168.1.10:5000"
 cd projeto/
 ```
+
 Inicie o cliente: python cliente/gui.py.
